@@ -1,0 +1,33 @@
+* STARTED 开题报告
+  :LOGBOOK:
+  CLOCK: [2023-04-07 Fri 15:49]--[2023-04-07 Fri 15:56] =>  0:07
+  :END:
+
+
+* 用来代替 c++ 后端的语言之 golang
+** 基础数据结构
+*** DONE Container/list
+   CLOSED: [2023-04-09 Sun 22:26]
+   - State "DONE"       from "STARTED"    [2023-04-09 Sun 22:26]
+   :LOGBOOK:
+   CLOCK: [2023-04-09 Sun 21:28]--[2023-04-09 Sun 22:26] =>  0:58
+   :END:
+*** DONE Container/ring
+    CLOSED: [2023-04-10 Mon 10:06]
+    - State "DONE"       from "STARTED"    [2023-04-10 Mon 10:06]
+    :LOGBOOK:
+    CLOCK: [2023-04-10 Mon 9:35]--[2023-04-10 Mon 10:06] =>  0:31
+    CLOCK: [2023-04-10 Mon 08:13]--[2023-04-10 Mon 08:59] =>  0:46
+    CLOCK: [2023-04-10 Mon 06:54]--[2023-04-10 Mon 07:54] =>  1:00
+    :END:
+*** DONE Golang 高级语言的数组, 切片与浅拷贝与深拷贝
+    CLOSED: [2023-04-10 Mon 11:20]
+    - State "DONE"       from "STARTED"    [2023-04-10 Mon 11:11]
+    :LOGBOOK:
+    CLOCK: [2023-04-10 Mon 10:39]--[2023-04-10 Mon 11:20] =>  0:41
+    CLOCK: [2023-04-10 Mon 10:25]--[2023-04-10 Mon 10:39] =>  0:14
+    :END:
+*** STARTED 队列: 用高级语言的高级数组 + 切片的方式
+    :LOGBOOK:
+    CLOCK: [2023-04-10 Mon 11:32]--[2023-04-10 Mon 11:45] =>  0:13
+    :END:
